@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\user\documents\_put\vscpp\finiteautomatagenerator\finiteautomatagenerator\main.cpp(43): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\user\documents\_put\vscpp\finiteautomatagenerator\finiteautomatagenerator\main.cpp(94): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  FiniteAutomataGenerator.vcxproj -> C:\Users\user\Documents\_PuT\VScpp\FiniteAutomataGenerator\Debug\FiniteAutomataGenerator.exe
